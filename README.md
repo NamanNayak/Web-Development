@@ -7,3 +7,4 @@ Resources and learning Path.
 - CSS 3
 - JavaScript ES6
 - Bootstrap 4
+- Databases
