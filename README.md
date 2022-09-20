@@ -8,3 +8,5 @@ Resources and learning Path.
 - JavaScript ES6
 - Bootstrap 4
 - Databases
+- Jquery
+- Version Control
